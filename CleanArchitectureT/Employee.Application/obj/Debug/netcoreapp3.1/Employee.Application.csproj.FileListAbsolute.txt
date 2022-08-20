@@ -1,0 +1,12 @@
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.deps.json
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Core.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Core.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.csproj.AssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.AssemblyInfo.cs
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.pdb

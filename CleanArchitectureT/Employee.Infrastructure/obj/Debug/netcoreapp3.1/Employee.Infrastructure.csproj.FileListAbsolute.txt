@@ -1,0 +1,15 @@
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.deps.json
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Infrastructure.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Application.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Core.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Application.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\bin\Debug\netcoreapp3.1\Employee.Core.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.CopyComplete
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.pdb

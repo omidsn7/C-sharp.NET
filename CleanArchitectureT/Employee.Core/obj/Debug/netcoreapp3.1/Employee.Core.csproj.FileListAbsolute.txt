@@ -1,0 +1,10 @@
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\bin\Debug\netcoreapp3.1\Employee.Core.deps.json
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\bin\Debug\netcoreapp3.1\Employee.Core.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\bin\Debug\netcoreapp3.1\Employee.Core.pdb
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.csproj.AssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.AssemblyInfoInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.AssemblyInfo.cs
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.dll
+C:\Users\O_sorayaee\source\repos\CleanArchitectureT\Employee.Core\obj\Debug\netcoreapp3.1\Employee.Core.pdb
